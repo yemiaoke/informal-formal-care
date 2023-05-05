@@ -1,0 +1,1 @@
+This project estimates the effects of both informal care and formal care on the cognitive ability of elderly people in the US. We address the endogeneity issue of care using in instrumental variables and 2 stage least squares regression.
